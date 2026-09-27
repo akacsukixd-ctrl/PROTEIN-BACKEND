@@ -1,1 +1,1 @@
-
+{ "name": "esmfold-backend", "version": "1.0.0", "private": true, "type": "module", "description": "Backend intermediario seguro para folding de proteínas." }
