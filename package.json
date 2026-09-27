@@ -1,0 +1,6 @@
+{
+  "name": "esmfold-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend intermediario seguro para folding de proteínas con ESMFold vía NVIDIA NIM (hasta 1024 aminoácidos)."
+}
